@@ -66,10 +66,6 @@ I build intelligent systems and turn complex data into clear solutions. Always l
 </td>
 
 <td align="center" width="80">
-<img src="https://skillicons.dev/icons?i=linux" width="42"/><br>Linux
-</td>
-
-<td align="center" width="80">
 <img src="https://skillicons.dev/icons?i=docker" width="42"/><br>Docker
 </td>
 
@@ -103,10 +99,6 @@ I build intelligent systems and turn complex data into clear solutions. Always l
 </td>
 
 <td align="center" width="80">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/odoo.svg" width="42"/><br>PyODBC
-</td>
-
-<td align="center" width="80">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42"/><br>Pandas
 </td>
 
@@ -120,6 +112,12 @@ I build intelligent systems and turn complex data into clear solutions. Always l
 
 <td align="center" width="80">
 <img src="https://skillicons.dev/icons?i=pytorch" width="42"/><br>PyTorch
+</td>
+
+</tr>
+<tr>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=n8n" width="42"/><br>n8n
 </td>
 
 </tr>
