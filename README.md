@@ -3,18 +3,24 @@
 <h3 align="center">
 A passionate IT student with a keen interest in Machine Learning and Artificial Intelligence
 </h3>
+<p align ="center">
+  Bachelor`s in Information Technology | Exploring Generative AI & Deep Learning
+</p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=kamleshcode&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<p align="center">
 
+<p align="center">
 <a href="mailto:kamleshit21@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
+## About Me
+Exploring the frontiers of AI, Deep Learning, and GenAI.
+I build intelligent systems and turn complex data into clear solutions. Always learning, always building.
 
 ## My favorite tools and technologies ⚙️
 
