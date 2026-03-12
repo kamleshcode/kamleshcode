@@ -15,44 +15,6 @@ A passionate IT student with a keen interest in Machine Learning and Artificial 
 </a>
 </p>
 
-## 🧑‍💻 About Me
-
-```python
-class Developer:
-
-    def __init__(self):
-        self.name = "Kamlesh Patel"
-        self.role = "Machine Learning Enthusiast"
-        self.education = "B.Tech in Information Technology"
-        self.university = "Drs. Kiran & Pallavi Patel Global University"
-        self.location = "India"
-        
-    def skills(self):
-        return [
-            "Python",
-            "Machine Learning",
-            "Deep Learning",
-            "Data Analysis",
-            "Angular",
-            "Node.js",
-            "SQL"
-        ]
-
-    def current_focus(self):
-        return [
-            "AI Agents",
-            "LangChain & LangGraph",
-            "Satellite Cloud Data Validation",
-            "Advanced ML Pipelines"
-        ]
-
-    def goal(self):
-        return "Build intelligent AI systems that solve real-world problems"
-
-
-me = Developer()
-```
-<br>
 
 ## My favorite tools and technologies ⚙️
 
